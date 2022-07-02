@@ -1,3 +1,6 @@
+# Hiatus
+I don't know when I can restart 🙄. Just not in the mood
+
 Start backend api with go run temp-back/apis.go
 # whatsapp
 
